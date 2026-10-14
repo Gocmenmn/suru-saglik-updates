@@ -1,0 +1,10 @@
+{
+  "available": true,
+  "package": "com.surusaglik.suru_saglik",
+  "version_code": 28,
+  "version_name": "0.13.4",
+  "notes": "Telefonlardan kalıcı GitHub güncelleme kanalı eklendi. Kaydırma hatası ve güncelleme indirme akışı düzeltildi.",
+  "size_bytes": 86168230,
+  "sha256": "a6f3d833ace59df9c5503df05d0119b93cd7f918d42a855435878ff58995a1d8",
+  "download_url": "https://github.com/Gocmenmn/suru-saglik-updates/releases/download/v0.13.4/Suru-Saglik-0.13.4.apk"
+}
